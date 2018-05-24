@@ -1,0 +1,10 @@
+sudo apt-get install python3
+sudo apt-get install python3-pip
+sudp apt-get install gunicorn python-gunicorn
+pip3 install zmq
+pip3 install scrapy
+pip3 install dropbox
+pip3 install gmplot
+pip3 install bottle
+pip3 install beautifulsoup4
+pip3 install gunicorn
